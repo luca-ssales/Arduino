@@ -10,4 +10,7 @@ Projetos desenvolvidos em C++ utilizando o Arduino Uno.
 * 3º Dois leds ligados se alternando
 * 4º Ascendendo um led com botão
 * 5º Botão liga e desliga o led
+* 6º Semaforo de tres leds
+* 7º Semaforo com led de pedestre
+* 8º Efeito vai e volta no led
   
